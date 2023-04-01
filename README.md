@@ -33,3 +33,5 @@ This dataset contains 4 tables in CSV format
 -Re-modelled the data relationship.
 
 -Created an executive KPI dashboard containing dynamic filtering options, high-level trending metrics, sales performance, order distribution, and trendings month over month, quarter over quarter.
+![PIZZA DASH](https://user-images.githubusercontent.com/113992933/229295013-b245afa1-e8f0-460d-9022-6985de4a1bfe.png)
+
