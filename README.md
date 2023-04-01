@@ -1,10 +1,10 @@
-# PIZZA PLACE SALES ANALYSIS
+# 🍕PIZZA PLACE SALES ANALYSIS
 
 ## Checkout and Interact with my Dashboard On:
 
 https://www.novypro.com/project/pizza-sales-2
 
-## 🍕OBJECTIVE
+## OBJECTIVE
 
 -To analyze customer traffic trends and identify peak hours in order to optimize staffing and improve operational efficiency.
 
